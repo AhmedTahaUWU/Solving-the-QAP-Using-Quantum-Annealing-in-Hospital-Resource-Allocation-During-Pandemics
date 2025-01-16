@@ -1,0 +1,1 @@
+# Solving-the-QAP-Using-Quantum-Annealing-in-Hospital-Resource-Allocation-During-Pandemics
