@@ -60,6 +60,3 @@ The visualization provides insights into how quantum states are manipulated duri
 ## Contributing
 Contributions to enhance the project are welcome! Feel free to fork the repository, make improvements, and submit a pull request.
 
-## License
-This project is open-source and available under the MIT License. See the LICENSE file for more details.
-
